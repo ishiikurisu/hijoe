@@ -1,5 +1,4 @@
-do:
-	android
+do: android
 
 browser:
 	cordova run browser --target opera
